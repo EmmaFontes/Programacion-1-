@@ -1,0 +1,3 @@
+﻿  palidroma ai.cpp
+C:\Users\saave\OneDrive\Documentos\Juan gei\palidroma ai\palidroma ai.cpp(11,5): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  palidroma ai.vcxproj -> C:\Users\saave\OneDrive\Documentos\Juan gei\palidroma ai\x64\Debug\palidroma ai.exe
